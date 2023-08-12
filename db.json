@@ -1,0 +1,178 @@
+{
+  "seller": [
+    {
+      "name": "sargunan",
+      "email": "sargunanarc@gmail.com",
+      "password": "Pdss@2002",
+      "id": 1
+    },
+    {
+      "name": "Abinash",
+      "email": "abinasharc@gmail.com",
+      "password": "Pdss@2002",
+      "id": 2
+    },
+    {
+      "name": "MXOPS7267L",
+      "password": "2222",
+      "email": "sargunanarc@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Sargunan P",
+      "password": "Pdss@2992",
+      "email": "sargunanarc@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "ddd",
+      "password": "wer4tg",
+      "email": "sargunanarc@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Sargunan P",
+      "password": "6h67",
+      "email": "sargunanarc@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Sargunan P",
+      "password": "1233",
+      "email": "sargunanarc@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Sargunan P",
+      "password": "66",
+      "email": "sargunanarc@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Sargunan P",
+      "password": "7777777",
+      "email": "sargunanarc@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Sargunan P",
+      "password": "55",
+      "email": "sargunanarc@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "sargunan",
+      "password": "Pdss@2002",
+      "email": "sargunanarc@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "Devanathan",
+      "password": "deva",
+      "email": "devanathan640@gmail.com",
+      "id": 14
+    }
+  ],
+  "products": [
+    {
+      "name": "Redmi 12 5G ",
+      "price": "15,499",
+      "category": "Redmi Mobile",
+      "color": "blue",
+      "description": "( Pastel Blue,8GB-256GB )",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G457778_View_1/mobiles/smartphones/xiaomi-redmi-12-5g-128-gb-pastel-blue-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Redmi 12 5G",
+      "price": "15,499",
+      "category": "Redmi Mobile",
+      "color": "black",
+      "description": "( Jade Black,8GB-256GB )",
+      "image": "https://img3.gadgetsnow.com/gd/images/products/additional/large/G457776_View_1/mobiles/smartphones/xiaomi-redmi-12-5g-128-gb-jade-black-6-gb-ram-.jpg",
+      "id": 2
+    },
+    {
+      "name": "OnePlus Nord CE 3 5G ",
+      "price": "28,999",
+      "category": "one plus mobies",
+      "color": "blue",
+      "description": "( Aqua Surge, 12GB-256GB ) \n50MP + 8MP + 2MP Rear Camera | 16MP Front Camera\nbi check circle fill\n17.02 cm (6.7 inch) Fluid AMOLED Display\nbi check circle fill\n5000mAh | 80W SUPERVOOC",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689051334/Croma%20Assets/Communication/Mobiles/Images/274674_memftp.png?tr=w-360",
+      "id": 3
+    },
+    {
+      "name": "OnePlus Nord CE 3 5G",
+      "price": "28,999",
+      "category": "one plus mobies",
+      "color": "black",
+      "description": "( Aqua Surge, 12GB-256GB )\n50MP + 8MP + 2MP Rear Camera | 16MP Front Camera\nbi check circle fill\n17.02 cm (6.7 inch) Fluid AMOLED Display\nbi check circle fill\n5000mAh | 80W SUPERVOOC",
+      "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Samsung Galaxy Z  5G ",
+      "price": "1,64,999",
+      "category": "Samsung mobiles",
+      "color": "violet",
+      "description": "( Icy Blue, 12GB-512GB )\n10MP + 50MP + 12MP Rear Camera | 10MP Front Camera\nbi check circle fill\n19.21cm (7.6 inch) Dynamic AMOLED Display\nbi check circle fill\n4400mAh Battery Capacity",
+      "image": "https://www.infinityphone.in/cdn/shop/products/61vZSG1KuoL._SX679_403x403.jpg?v=1664882885",
+      "id": 5
+    },
+    {
+      "name": "Vivo Y27 ",
+      "price": "14,999",
+      "category": "vivo",
+      "color": "Garden green",
+      "description": "( Garden Green, 6GB-128GB )\n8MP + 50MP Rear camera | 8MP Front Camera\nbi check circle fill\n5000 mAh Battery | 44W Charger\nbi check circle fill\n16.86 cm ( 6.64 inch ) LCD Display",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/f/6/f/y27-v2249-vivo-original-imagrk4243kzgsrm.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "Oppo Reno 10 5G ",
+      "price": "32,999",
+      "category": "oppo mobiles",
+      "color": "silvery black",
+      "description": "(Silvery Grey, 8GB-256GB)\nAMOLED Display | 5000mAh Battery\nbi check circle fill\n32MP + 64MP + 8MP Primary Camera | 32MP Front Camera\nbi check circle fill\nMedia Tek Dimensity 7050\n",
+      "image": "https://suprememobiles.in/cdn/shop/files/OppoReno10ProSilverAvailableNow_1024x1024.png?v=1689141398",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Sargunan P",
+      "email": "sargunanarc@gmail.com",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "name": "Devanathan",
+      "email": "devanathan640@gmail.com",
+      "password": "deva",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "devanathan640@gmail.com",
+      "address": "113 chennai",
+      "contact": "9345347362",
+      "totalPrice": 100100,
+      "userId": 2,
+      "id": 1
+    }
+  ]
+}

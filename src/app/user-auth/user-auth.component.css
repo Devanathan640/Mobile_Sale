@@ -1,0 +1,19 @@
+.user-auth h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: red;  
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user-auth {
+    margin-bottom: 100px;
+}
+.user-auth a{
+    
+    color: red;
+    cursor: pointer;
+}
+.user-auth .click{
+    margin-top: 5px;
+}
